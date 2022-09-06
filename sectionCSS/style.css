@@ -1,0 +1,21 @@
+body {
+	background-image: url('backgroundimage.jpg');
+	background-size: cover;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	border: 5px solid rgb(255, 176, 170);
+	cursor: pointer;
+}
+
+p {
+	color: green;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 30px;
+}
