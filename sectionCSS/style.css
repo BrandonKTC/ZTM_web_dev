@@ -6,16 +6,31 @@ body {
 h2 {
 	color: red;
 	text-align: center;
-	border: 5px solid rgb(255, 176, 170);
 	cursor: pointer;
+}
+
+.webdriver {
+	border: 5px solid rgb(255, 176, 170);
 }
 
 p {
 	color: green;
+	line-height: 20px;
+	font-size: 150%;
+	font-style: italic;
+	font-weight: bold;
+	font-family: 'Poiret One', cursive;
 }
-
 li {
 	list-style: none;
 	display: inline-block;
 	margin-right: 30px;
+}
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
 }
