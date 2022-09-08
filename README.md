@@ -1,6 +1,6 @@
 # ZTM_web_dev
 
-simple repository to keep track of the zerotomastery course
+simple repository to keep track of the zerotomastery web developer beginner -> senior course
 CSS Cheat Sheet
 
 Reference:
