@@ -1,6 +1,6 @@
-# ZTM_web_dev
-
-simple repository to keep track of the zerotomastery web developer beginner -> senior course
+# The Complete Web Developer in 2023: Zero to Mastery
+Notes and Files from the course [The Complete Web Developer in 2023: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) on Udemy
+Copyright(©) by Zero to Mastery.
 
 ### CSS Cheat Sheet
 
